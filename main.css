@@ -1,0 +1,50 @@
+#uglyparagraph {
+  background-color: #cccccc;
+  color: #ff0000;
+  border: 1px solid #000000;
+}
+
+.orange {
+  color: #ffa500;
+}
+
+#uglydiv {
+  width: 300px;
+  height: 75px;
+  margin-bottom: 12px;
+  background-color: #000000;
+  border: 2px dashed #ff0000;
+  color: #ffffff;
+}
+
+table {
+  border-width: 1px solid #000;
+  border-spacing: 2px;
+  border-style: outset;
+  border-collapse: collapse;
+}
+
+.greencell {
+  background-color: green;
+}
+
+.redcell {
+  background-color: #ff0000;
+}
+
+.bluecell {
+  background-color: #0000ff;
+}
+
+.yellowcell {
+  background-color: #ffff00;
+}
+
+#uglybq {
+  background-color: #0000ff;
+  border: 4px dotted #ffff00;
+  color: #ffffff;
+}
+
+
+
